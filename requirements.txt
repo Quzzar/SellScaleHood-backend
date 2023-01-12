@@ -1,0 +1,7 @@
+Flask
+yfinance
+flask-restful
+Pyrebase4
+python-dotenv
+flask-cors
+yahooquery
